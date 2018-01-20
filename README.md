@@ -1,7 +1,5 @@
 # find-your-horoscope
 
-# horoscope
-
 A Python module to fetch and parse data from GaneshaSpeaks.
 
 ## Installation
