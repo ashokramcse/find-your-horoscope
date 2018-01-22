@@ -20,10 +20,3 @@ print (your_todays_horoscope['sunsign'])
 print (your_todays_horoscope['horoscope'])
 
 ```
-
-## Module Installation
-* [pip](http://pip.readthedocs.org/en/latest/installing.html) is recommended for installing dependencies.
-
-Install using pip:
-
-    pip install horoscope
